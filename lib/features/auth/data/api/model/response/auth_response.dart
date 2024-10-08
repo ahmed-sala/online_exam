@@ -1,8 +1,8 @@
 import 'package:json_annotation/json_annotation.dart';
 
-import '../../../../domain/model/AppUser.dart';
+import '../../../../domain/model/app_user.dart';
 
-part 'AuthResponse.g.dart';
+part 'auth_response.g.dart';
 
 @JsonSerializable()
 class AuthResponse {
